@@ -1,0 +1,41 @@
+# Visual Studio user files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.cache
+
+# C++ build outputs
+*.obj
+*.o
+*.exe
+*.out
+*.dll
+*.lib
+*.pch
+*.ipdb
+*.pdb
+
+# Debug and Perf files
+*.etl
+*.etl.zip
+*.perf
+*.ipch
+*.log
+
+# Build/Generated folders
+build/
+x64/
+Debug/
+Release/
+
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Git LFS-tracked large files
+*.ipch
+*.etl.zip
